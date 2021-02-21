@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+  int Value1= 100;
+  int Value2= 200;
+  int result1;
+  int result2;
+   result1=Value1*Value2;
+   result2=Value2/Value1;
+
+    cout<<result1<<endl;
+    cout<<result2;
+    return 0;
+}
